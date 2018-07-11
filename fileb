@@ -1,7 +1,9 @@
-this is file
+<<<<<<< HEAD
+this is file B
 in order to see how the conflict happens
 now I am going to change this file not only in remote master but also in local master branch ,then I am going to push my local master
 branch to remote master branch ,let's see what's going to happen 
 I am going to change some thing yepB
 as I assumed,the conflict appeared so I have to make some change
 now let's see if it works
+>>>>>>> c4569b3a330bb21db1b47cf120e095efa1990d3e
