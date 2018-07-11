@@ -1,1 +1,4 @@
 this is file B
+in order to see how the conflict happens
+now I am going to change this file not only in remote master but also in local master branch ,then I am going to push my local master
+branch to remote master branch ,let's see what's going to happen
